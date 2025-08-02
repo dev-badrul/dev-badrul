@@ -2,6 +2,10 @@
 
 <h1 align="center">Hello 👋, I'm Muhammad Badrul Amin Miah</h1>
 <h3 align="center">Professional Web Designer | Web Developer | Wordpress Expert | Clean Code | Web Solutions</h3>
+<h4 align="center">I'm a Front End Back End Web developer who is passionate about making error-free websites with 100% client satisfaction.
+I have a passion for learning and sharing my knowledge with others. I am strategic and  goal-oriented. and always work with an end goal in mind.
+The last few years. I created many websites for my clients. Most of the time, I work with WordPress and Coding. I love working with JavaScript and PHP</h4>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-badrul&label=Profile%20views&color=0e75b6&style=flat" alt="dev-badrul" /> </p>
 
